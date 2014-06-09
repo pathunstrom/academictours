@@ -21,4 +21,11 @@
   p {
     font-size: 1.6em;
   }
+
+  #feature h2 {
+    float: left;
+    font-size: 4em;
+    width: 30%;
+    margin: 1em;
+  }
 }
