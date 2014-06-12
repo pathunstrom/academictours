@@ -14,6 +14,19 @@ a {
   text-decoration: none;
 }
 
+figure {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 1.8em;
+  max-width: 80%;
+  margin: auto;
+  padding: 2em;
+}
+
+figcaption {
+  font-size: .66666em;
+  margin-left: 75%;
+}
+
 body {
   font-size: 62.5%;
   margin: auto;

@@ -78,7 +78,7 @@ section p {
     width: 46%;
   }
 
-    #contact {
+  #contact {
     width: 30%;
   }
 
@@ -94,10 +94,14 @@ section p {
     top: -2px;
   }
 
-    #right-wrap {
+  #right-wrap {
     width: 65%;
     height: 100%;
     float: right;
+  }
+
+  #call {
+    padding: .75em;
   }
 }
 
